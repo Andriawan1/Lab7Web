@@ -54,6 +54,12 @@ output
 10. perulangan while
     ![15](https://user-images.githubusercontent.com/81581236/117706726-da279e00-b1f7-11eb-9c84-79efcdb6ed3f.PNG)
 output
+
+11. inputan nama, tanggal, pekerjaan
+       ![w7](https://user-images.githubusercontent.com/81581236/117762161-ceb59080-b252-11eb-887f-2ebaa30c8ed5.PNG)
+
+![w8](https://user-images.githubusercontent.com/81581236/117762395-4683bb00-b253-11eb-8133-3c2ec00e00d0.PNG)
+
 ![16](https://user-images.githubusercontent.com/81581236/117706748-e14eac00-b1f7-11eb-907b-aecc36c9986b.PNG)
 
 11. Perulangan dowhile
@@ -62,3 +68,4 @@ output
 output
 ![18](https://user-images.githubusercontent.com/81581236/117707004-338fcd00-b1f8-11eb-965b-cb5729a98f78.PNG)
 
+12.
